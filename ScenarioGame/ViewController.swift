@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  ScenarioGame
 //
-//  Created by Antonio Mone on 19/02/18.
-//  Copyright © 2018 Antonio Mone. All rights reserved.
+//  Created by Antonio Giaquinto on 19/02/18.
+//  Copyright © 2018 Antonio Giaquinto. All rights reserved.
 //
 
 import UIKit
